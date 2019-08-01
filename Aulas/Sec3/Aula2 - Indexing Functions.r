@@ -26,4 +26,4 @@ y <- c("a","d","f")
 
 y %in% x
 
-c("Botson", "Dakota", "Washington") %in% murders$state
+c("Boston", "Dakota", "Washington") %in% murders$state
